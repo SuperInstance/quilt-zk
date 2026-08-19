@@ -1,0 +1,8 @@
+{
+  "name": "quilt-zk",
+  "version": "0.1.0",
+  "description": "Zero-knowledge proofs over Quilt cell state. Prove statements about cells without revealing the cells. A sketch.",
+  "main": "src/index.js",
+  "type": "module",
+  "license": "MIT"
+}
